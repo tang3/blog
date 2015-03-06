@@ -1,0 +1,6 @@
+## Generating Site with Jekyll
+[33munchanged[0m sass/screen.scss
+Configuration from /blog/_config.yml
+Building site: source -> public
+Successfully generated site: source -> public
+rm: cannot remove `/blog/source/md/deploy': No such file or directory

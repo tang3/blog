@@ -1,0 +1,9 @@
+---
+layout: post
+title: "dell-test"
+date: 2015-03-06 18:50:43 +0800
+comments: true
+categories: 
+---
+
+这是一个来自dell的测试
